@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im using GitHub 👋
 este es mi primer commit jeje
 cambio 2
 <!--
